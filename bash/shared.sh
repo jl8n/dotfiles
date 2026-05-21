@@ -74,3 +74,5 @@ case ":$PATH:" in
 esac
 
 export PATH="/home/josh/.local/bin:$PATH"
+
+[ -f ~/dotfiles/bash/aliases.sh ] && source ~/dotfiles/bash/aliases.sh
