@@ -1,0 +1,4 @@
+ssh/id_*
+ssh/*.pem
+ssh/known_hosts
+ssh/authorized_keys
